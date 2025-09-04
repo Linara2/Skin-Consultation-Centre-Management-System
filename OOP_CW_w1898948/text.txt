@@ -1,0 +1,4 @@
+Sophia,Adison,1997-12-29,777987435,105,medical
+Emma,Johonnas,1998-02-25,777569736,102,medical
+Olivia,Kim,2000-12-19,771539723,101,cosmetic
+Liam,Williams,2001-06-11,777543189,103,paediatric
